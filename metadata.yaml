@@ -1,0 +1,29 @@
+_repo: Aus-tiefem-Schacht_32391
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zobeltitz, Fedor von
+    alias: Von Zobeltitz, Fedor
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '35820'
+    url: http://www.gutenberg.org/2009/agents/35820
+    wikipedia: http://de.wikipedia.org/wiki/Fedor_von_Zobeltitz
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32391'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Aus tiefem Schacht
+url: http://www.gutenberg.org/ebooks/32391
