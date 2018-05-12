@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35820
     wikipedia: http://de.wikipedia.org/wiki/Fedor_von_Zobeltitz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32391#Aus-tiefem-Schacht
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-05-15'
 gutenberg_type: Text
